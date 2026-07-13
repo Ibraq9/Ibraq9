@@ -13,19 +13,17 @@ Building scalable web applications and exploring Machine Learning, Computer Visi
 
 ## 🚀 About Me
 
-- 🎓 Computer Science student at **Minia University**
+- 🎓 Computer Science Graduate at **Minia University**
 - 💻 **3+ years** of experience building Full-Stack web applications
 - 🤖 Currently learning **AI Engineering**, Machine Learning, Deep Learning & Computer Vision
 - 🌱 Exploring **LLMs, RAG systems, NLP, FastAPI, and MLOps**
-- 🏗️ Building **Vision X**, AI-powered smart glasses for blind users
-- 🚀 Co-founder of a startup building a modern **Second Brain** productivity platform
 
 ---
 
 ## 🌐 Portfolio & Contact
 
 - 🌍 Portfolio: **https://ibrahim-abouelkassem.vercel.app/**
-- 💼 LinkedIn: **https://www.linkedin.com/in/ibraheem-qassem-949639265/**
+- 💼 LinkedIn: **[https://www.linkedin.com/in/ibraheem-qassem-949639265/](https://www.linkedin.com/in/ibrahim-abouelkasem/)**
 - 📧 Email: **ibrahimabualqassim@gmail.com**
 
 ---
@@ -71,59 +69,6 @@ Building scalable web applications and exploring Machine Learning, Computer Visi
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧠 Vision X
-AI-powered smart glasses for visually impaired users.
-
-**Features**
-
-- Real-time Object Detection
-- OCR Text Recognition
-- Currency Recognition
-- Obstacle Detection
-- Voice Assistant
-
-**Tech**
-
-Python • OpenCV • PyTorch • TensorFlow • Raspberry Pi
-
----
-
-### 📚 Learning Management System
-
-Full-stack LMS supporting:
-
-- Authentication
-- Course Management
-- Student Enrollment
-- Payments
-- Admin Dashboard
-
-**Tech**
-
-Next.js • TypeScript • PostgreSQL • Prisma • NextAuth • Stripe
-
----
-
-### 🛒 Atfallna Store
-
-Modern full-stack e-commerce platform.
-
-**Features**
-
-- Customer Storefront
-- Admin Dashboard
-- Orders
-- Inventory
-- Authentication
-
-**Tech**
-
-Next.js • PostgreSQL • Prisma • TypeScript • Tailwind CSS
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -138,14 +83,7 @@ Next.js • PostgreSQL • Prisma • TypeScript • Tailwind CSS
 
 ---
 
-## 🎯 2026 Goals
 
-- Master Software Engineering fundamentals
-- Build production-ready AI applications
-- Learn MLOps & Cloud deployment
-- Contribute to Open Source
-- Launch the Second Brain SaaS
-- Become an AI Engineer
 
 ---
 
