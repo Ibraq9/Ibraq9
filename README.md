@@ -46,25 +46,20 @@ Passionate about building scalable web applications and advancing in Machine Lea
 
 **AI & Data Science**
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,python" />
-<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,pandas,numpy,scikitlearn" />
 </p>
 
-**Tools & Platforms**
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
-</p>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ibraq9&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibraq9&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibraq9&theme=tokyonight" />
 </p>
