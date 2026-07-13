@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Mohamed Abuelkasem</h1>
 
 <h3 align="center">
-Software Engineer • Full-Stack Developer • AI Engineering Student
+Software Engineer • Full-Stack Developer • AI Engineer
 </h3>
 
 <p align="center">
-Computer Science Student at Minia University (Expected 2026)<br>
-Building scalable web applications and exploring Machine Learning, Computer Vision, and LLMs.
+Computer Science Graduate at Minia University =(2026)<br>
+Building scalable web applications and exploring Machine Learning , Deep Learning, Computer Vision, and LLMs.
 </p>
 
 ---
@@ -16,7 +16,7 @@ Building scalable web applications and exploring Machine Learning, Computer Visi
 - 🎓 Computer Science Graduate at **Minia University**
 - 💻 **3+ years** of experience building Full-Stack web applications
 - 🤖 Currently learning **AI Engineering**, Machine Learning, Deep Learning & Computer Vision
-- 🌱 Exploring **LLMs, RAG systems, NLP, FastAPI, and MLOps**
+- 🌱 Exploring **LLMs, RAG systems, NLP, and MLOps**
 
 ---
 
