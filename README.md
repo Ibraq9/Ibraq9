@@ -1,13 +1,152 @@
-<h1 align="left">Hi , I'm Ibraheem Qassem</h1>
-<h2 align="left">In the third year at the College of Computer Science and Information</h2>
-<h3 align="center">Software Engineer || Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Ibrahim Mohamed Abuelkasem</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ibraheem-qassem-949639265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ibraheem-qassem-949639265/" height="30" width="40" /></a>
+<h3 align="center">
+Software Engineer • Full-Stack Developer • AI Engineering Student
+</h3>
+
+<p align="center">
+Computer Science Student at Minia University (Expected 2026)<br>
+Building scalable web applications and exploring Machine Learning, Computer Vision, and LLMs.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibraq9&show_icons=true&locale=en&layout=compact" alt="ibraq9" /></p>
+## 🚀 About Me
+
+- 🎓 Computer Science student at **Minia University**
+- 💻 **3+ years** of experience building Full-Stack web applications
+- 🤖 Currently learning **AI Engineering**, Machine Learning, Deep Learning & Computer Vision
+- 🌱 Exploring **LLMs, RAG systems, NLP, FastAPI, and MLOps**
+- 🏗️ Building **Vision X**, AI-powered smart glasses for blind users
+- 🚀 Co-founder of a startup building a modern **Second Brain** productivity platform
+
+---
+
+## 🌐 Portfolio & Contact
+
+- 🌍 Portfolio: **https://ibrahim-abouelkassem.vercel.app/**
+- 💼 LinkedIn: **https://www.linkedin.com/in/ibraheem-qassem-949639265/**
+- 📧 Email: **ibrahimabualqassim@gmail.com**
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,cs" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,prisma" />
+</p>
+
+### AI & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+- Scikit-Learn
+- Pandas
+- NumPy
+- Computer Vision
+- Machine Learning
+- NLP
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Vision X
+AI-powered smart glasses for visually impaired users.
+
+**Features**
+
+- Real-time Object Detection
+- OCR Text Recognition
+- Currency Recognition
+- Obstacle Detection
+- Voice Assistant
+
+**Tech**
+
+Python • OpenCV • PyTorch • TensorFlow • Raspberry Pi
+
+---
+
+### 📚 Learning Management System
+
+Full-stack LMS supporting:
+
+- Authentication
+- Course Management
+- Student Enrollment
+- Payments
+- Admin Dashboard
+
+**Tech**
+
+Next.js • TypeScript • PostgreSQL • Prisma • NextAuth • Stripe
+
+---
+
+### 🛒 Atfallna Store
+
+Modern full-stack e-commerce platform.
+
+**Features**
+
+- Customer Storefront
+- Admin Dashboard
+- Orders
+- Inventory
+- Authentication
+
+**Tech**
+
+Next.js • PostgreSQL • Prisma • TypeScript • Tailwind CSS
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ibraq9&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibraq9&layout=compact&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ibraq9&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- Master Software Engineering fundamentals
+- Build production-ready AI applications
+- Learn MLOps & Cloud deployment
+- Contribute to Open Source
+- Launch the Second Brain SaaS
+- Become an AI Engineer
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
